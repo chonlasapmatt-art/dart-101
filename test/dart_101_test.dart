@@ -27,4 +27,3 @@ void main() {
     expect(!hasCoupon, isTrue); // Testing NOT like in exercise 20
   });
 }
-test
